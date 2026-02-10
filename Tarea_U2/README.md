@@ -1,0 +1,1 @@
+Esta carteta representa mi proyecto bioinformatico 
